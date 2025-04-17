@@ -36,3 +36,5 @@ A simple **Python** project demonstrating Object‑Oriented Programming (OOP) co
    ```bash
    git clone https://github.com/your-username/digital-pet.git
    cd digital-pet
+![Output]{/Output.png}
+   
